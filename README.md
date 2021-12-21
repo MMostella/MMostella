@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ... Human Rights First DocDB, nonprofit org
 - 📫 How to reach me: [Resume](https://docs.google.com/document/d/15UVDtw9peYlIi_zlgla0wNMElbHlpsXG3czMGlMXOk0/edit?usp=sharing) or [LinkedIn](https://www.linkedin.com/in/mmostella/)
 - ⚡ Fun fact: Cookie Monsters first name is Sid.
-- A little fact about me: I like to juggle... where its actual objects or multiple tasks at one time, I like to do them all.
+- A little fact about me: I like to juggle... whether its actual objects or multiple tasks at one time, I like to do them all.
 
 <!--
 **MMostella/MMostella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
